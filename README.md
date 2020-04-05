@@ -23,6 +23,9 @@ I will put breaking changes in the breaking_changes.md file, which you should al
 
 1. Using Docker
 2. Standalone
+3. Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/custom-yagpdb)
 
 **I will not help with basic problems or how to do unrelated things (how to run it on startup for example), use Google, if those well written tutorials and articles confuse you, how the hell is a guy with English as a second language gonna be any better?**
 
